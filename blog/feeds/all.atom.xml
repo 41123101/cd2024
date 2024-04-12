@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T07:50:26+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w8.html" rel="alternate"></link><published>2024-04-12T04:54:00+08:00</published><updated>2024-04-12T07:50:26+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-04-12:./2024-Spring-w8.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T08:33:10+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w8.html" rel="alternate"></link><published>2024-04-12T04:54:00+08:00</published><updated>2024-04-12T08:33:10+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-04-12:./2024-Spring-w8.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;update群組&lt;/p&gt;
 
 &lt;h1&gt;觀看2a_w6影片&lt;/h1&gt;
-&lt;p&gt;將github中的內容合併至分組網站&lt;/p&gt;</content><category term="w8"></category><category term="合併網誌"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w6.html" rel="alternate"></link><published>2024-03-29T04:54:00+08:00</published><updated>2024-03-29T07:50:37+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-03-29:./2024-Spring-w6.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
+&lt;p&gt;將github中的內容合併至分組網站&lt;/p&gt;
+&lt;h1&gt;更新出現問題&lt;/h1&gt;
+&lt;p&gt;使用Codespaces合併時出現 ! [rejected] &lt;br&gt;
+main -&amp;gt; main (fetch first)
+查詢chagpt
+error: failed to push some refs to 'https://github.com/mdecd2024/2a-midag1'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.&lt;/p&gt;
+&lt;p&gt;查詢chatgpt得輸入git config pull.rebase false：使用合併（merge）方式調解分歧的分支。
+就可以成功git push&lt;/p&gt;</content><category term="w8"></category><category term="合併網誌"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w6.html" rel="alternate"></link><published>2024-03-29T04:54:00+08:00</published><updated>2024-03-29T07:50:37+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-03-29:./2024-Spring-w6.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;update群組&lt;/p&gt;
 
 &lt;h1&gt;觀看2a_w6影片&lt;/h1&gt;
