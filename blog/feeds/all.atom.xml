@@ -1,5 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T08:33:10+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w8.html" rel="alternate"></link><published>2024-04-12T04:54:00+08:00</published><updated>2024-04-12T08:33:10+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-04-12:./2024-Spring-w8.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T07:31:36+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w13.html" rel="alternate"></link><published>2024-05-17T04:54:00+08:00</published><updated>2024-05-17T07:15:19+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-17:./2024-Spring-w13.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;update群組&lt;/p&gt;
+
+&lt;h1&gt;製作期末報告&lt;/h1&gt;
+&lt;p&gt;球場參考規格:
+競技球: 白色, 直徑 0.1m, 重量 0.5kg
+場地: 長 4m x 寬 2.5m, 外圍以足夠高度之隱形柵欄區隔
+足球門: 長 0.6m, 高 0.3m, 寬 0.1m
+籃板: 長 0.3m, 高 0.3m, 寬 0.1m, 位於足球門上方中央
+籃框: 由籃板向場內距離 0.1m, 內徑 0.2m, 框管直徑 0.02
+球員尺寸範圍: 長寬高各 0.2m, 重量 5kg&lt;/p&gt;</content><category term="w13"></category><category term="製作期末報告"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w12.html" rel="alternate"></link><published>2024-05-10T04:54:00+08:00</published><updated>2024-05-17T05:59:32+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-10:./2024-Spring-w12.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期末報告&lt;/p&gt;
+
+&lt;h1&gt;製作期末報告&lt;/h1&gt;
+&lt;p&gt;觀看w12影片製作3樣任務&lt;/p&gt;</content><category term="w12"></category><category term="期末報告"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w11.html" rel="alternate"></link><published>2024-05-03T04:54:00+08:00</published><updated>2024-05-17T07:31:36+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-03:./2024-Spring-w11.html</id><summary type="html">&lt;p&gt;心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;心得&lt;/p&gt;
+
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;雖然不是第一次接觸到github，但是在每次使用都會遇到不同的問題，在二下的時候已經算是第4次使用了，對於界面和解決問題也都有所進步，產品協同設計實習這堂課也讓我體會到團隊分工合作的重要性像是89頁的論文翻譯以及幫上課影片上逐字稿和字幕。&lt;/p&gt;</content><category term="w11"></category><category term="合併網誌"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w10.html" rel="alternate"></link><published>2024-04-26T04:54:00+08:00</published><updated>2024-05-17T06:59:28+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-04-26:./2024-Spring-w10.html</id><summary type="html">&lt;p&gt;觀看影片完成任務&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;觀看影片完成任務&lt;/p&gt;
+
+&lt;h1&gt;任務一&lt;/h1&gt;
+&lt;p&gt;github和blog網址更新至分組網站上 (已完成)
+剛開始貼上時只有純文字，後來使用連結貼上即可&lt;/p&gt;
+&lt;h1&gt;任務二 請下載 cd2024_ball_balancing_platform_control_ref.7z, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/h1&gt;
+&lt;p&gt;1.SRV02 2D Ball Balancer Laboratory Summary
+使用相機讀取球的位置
+設計內外迴路控制負載軸位置
+預先設計PD控制
+計算PID增益
+模擬步階響應
+測量穩態誤差
+2.cd2024_A real time control system for balancing a ball on a platform with FPGA parallel implementation Summary
+通過將傳輸函數轉換為球位置R(s)和伺服馬達旋轉角度θ(s)的比率，實現控制對象的特性。
+使用PID調節器在FPGA上實現平行計算，提高實時平台上球位置調節的準確性。
+硬件實現PID控制器的增量算法可避免過去所有錯誤的累積，實現平滑從手動到自動操作的切換。
+FPGA提供高計算能力和實時平行計算，可實現多個控制器以高速度控制多個參數。
+該研究提出了在實時平台上平衡球位置的新PID調節器解決方案，並通過自然模擬證實了對球位置調節準確性的提高。
+3.cd2024_Ball_on_the_plate_balancing_control_system Summary
+球在平板上的平衡控制系統
+實驗室測試臺設計包括阻性觸控屏幕和步進馬達
+控制系統使用AVR微控制器和PID調節器
+球平衡控制系統應用於教育和工業自動化
+未來可擴展為更複雜的機器人控制系統
+4.cd2024_Construction and theoretical study Summary
+PID控制器用於系統控制
+PID控制器包括比例、積分、微分部分
+每個部分可單獨或組合使用
+控制信號由方程式(2.17)給出
+Laplace轉換將系統動態轉換到頻率域
+目標是平衡球並調整位置
+實驗結果和模擬結果將用於分析
+5.cd2024_Design and Implementation a Ball Balancing System for Control Theory Course  Summary
+PID控制算法是根據給定值和預期值之間的偏差調整光束角度的實時方法。
+最終模型採用輕便且便攜的木製結構，以減少材料使用。
+MATLAB用於實時數據獲取和控制模擬，尤其在控制領域中不可替代。
+實驗結果顯示閉環系統為2階或更高階，並提供了2階系統的一般表達式。
+最終模型包括光束、伺服馬達和基座的設計，以實現平衡且高效的球平衡系統
+6.cd2024_Simulation_and_Experimental_Study_of_Ball_Position  Summary
+通過PI控制器實現了Kinetis K60的角位置控制。
+使用Dodd's公式和極點配置方法找到預定帶寬。
+系統對Heaviside階躍函數的響應顯示出穩定性和快速性。
+通過Bode圖分析顯示了軌跡跟隨的能力。
+通過實驗和模擬比較了速度和位置迴路的步階響應和Bode圖。&lt;/p&gt;</content><category term="w10"></category><category term="觀看影片完成任務"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w9.html" rel="alternate"></link><published>2024-04-19T04:54:00+08:00</published><updated>2024-05-17T07:27:06+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-04-19:./2024-Spring-w9.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;update群組&lt;/p&gt;
+
+&lt;h1&gt;期中考週&lt;/h1&gt;
+&lt;p&gt;自評&lt;/p&gt;</content><category term="w9"></category><category term="自評"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w8.html" rel="alternate"></link><published>2024-04-12T04:54:00+08:00</published><updated>2024-04-12T08:33:10+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-04-12:./2024-Spring-w8.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;update群組&lt;/p&gt;
 
 &lt;h1&gt;觀看2a_w6影片&lt;/h1&gt;
