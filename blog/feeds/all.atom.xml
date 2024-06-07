@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T04:54:00+08:00</updated><entry><title>2024 Spring 課程 W14</title><link href="./2024-Spring-w14.html" rel="alternate"></link><published>2024-05-24T04:54:00+08:00</published><updated>2024-05-17T07:42:41+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-24:./2024-Spring-w14.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;update群組&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T05:57:53+08:00</updated><entry><title>2024 Spring 課程 W15</title><link href="./2024-Spring-w15.html" rel="alternate"></link><published>2024-05-31T04:54:00+08:00</published><updated>2024-06-07T05:57:53+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-31:./2024-Spring-w15.html</id><summary type="html">&lt;p&gt;上傳作業&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;上傳作業&lt;/p&gt;
 
-&lt;h1&gt;製作期末報告&lt;/h1&gt;</content><category term="w13"></category><category term="製作期末報告"></category></entry><entry><title>2024 Spring 課程 W13</title><link href="./2024-Spring-w13.html" rel="alternate"></link><published>2024-05-17T04:54:00+08:00</published><updated>2024-05-17T07:42:52+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-17:./2024-Spring-w13.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
+&lt;h1&gt;註冊odoo&lt;/h1&gt;
+&lt;p&gt;再過檢查作業的過程中發現少做到這個緊急補進度&lt;/p&gt;</content><category term="w13"></category><category term="鋼球平衡台"></category></entry><entry><title>2024 Spring 課程 W14</title><link href="./2024-Spring-w14.html" rel="alternate"></link><published>2024-05-24T04:54:00+08:00</published><updated>2024-05-24T07:05:04+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-24:./2024-Spring-w14.html</id><summary type="html">&lt;p&gt;上傳作業&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;上傳作業&lt;/p&gt;
+
+&lt;h1&gt;上傳鋼球平衡台基座繪製過程&lt;/h1&gt;
+&lt;p&gt;在push內容的時候發生問題，與組長討論後為倉儲未同步所以要先同步在pull下來之後就可以成功push上去了&lt;/p&gt;</content><category term="w13"></category><category term="鋼球平衡台"></category></entry><entry><title>2024 Spring 課程 W13</title><link href="./2024-Spring-w13.html" rel="alternate"></link><published>2024-05-17T04:54:00+08:00</published><updated>2024-05-17T07:42:52+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-17:./2024-Spring-w13.html</id><summary type="html">&lt;p&gt;update群組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;update群組&lt;/p&gt;
 
 &lt;h1&gt;製作期末報告&lt;/h1&gt;
