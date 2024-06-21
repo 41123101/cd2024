@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T14:32:03+08:00</updated><entry><title>2024 Spring 課程 W17</title><link href="./2024-Spring-w17.html" rel="alternate"></link><published>2024-06-04T04:54:00+08:00</published><updated>2024-06-21T14:31:58+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-06-04:./2024-Spring-w17.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>4123101協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T14:43:43+08:00</updated><entry><title>2024 Spring 課程 W17</title><link href="./2024-Spring-w17.html" rel="alternate"></link><published>2024-06-04T04:54:00+08:00</published><updated>2024-06-21T14:31:58+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-06-04:./2024-Spring-w17.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期末報告&lt;/p&gt;
 
 &lt;h1&gt;nx繪圖&lt;/h1&gt;
-&lt;p&gt;在繪製過程中，因為沒有錄到python檔案，重畫了1次，在畫完之後發現檔案是錯的無法播放，跟同學討論後才知道要更改功能表中的喜好設定把使用者介面中的動作紀錄語言改成python。&lt;/p&gt;</content><category term="w17"></category><category term="期末報告"></category></entry><entry><title>2024 Spring 課程 W18</title><link href="./2024-Spring-w18.html" rel="alternate"></link><published>2024-06-04T04:54:00+08:00</published><updated>2024-06-21T14:31:50+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-06-04:./2024-Spring-w18.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
+&lt;p&gt;在繪製過程中，因為沒有錄到python檔案，重畫了1次，在畫完之後發現檔案是錯的無法播放，跟同學討論後才知道要更改功能表中的喜好設定把使用者介面中的動作紀錄語言改成python。&lt;/p&gt;</content><category term="w17"></category><category term="期末報告"></category></entry><entry><title>2024 Spring 課程 W18</title><link href="./2024-Spring-w18.html" rel="alternate"></link><published>2024-06-04T04:54:00+08:00</published><updated>2024-06-21T14:43:43+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-06-04:./2024-Spring-w18.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期末報告&lt;/p&gt;
 
 &lt;h1&gt;nx繪圖&lt;/h1&gt;
-&lt;p&gt;因為沒有帶自己的電腦出門，機器人跟輪子的檔案都在電腦裡面今天在學校重畫了一次，在下載西門子的nx載了24小時都無法下載成功，今天來學校把上周的表單完成。&lt;/p&gt;
+&lt;p&gt;因為沒有帶自己的電腦出門，機器人跟輪子的檔案都在電腦裡面今天在學校重畫了一次，在下載西門子的nx載了24小時都無法下載成功一直進度都是40趴，今天來學校把上周的表單完成。&lt;/p&gt;
 &lt;h1&gt;coppeliasim&lt;/h1&gt;
 &lt;p&gt;下載的版本import中沒有mash無法導入機器人，後來使用同學的電腦import成功。但程式的部分還是失敗了。&lt;/p&gt;</content><category term="w18"></category><category term="期末報告"></category></entry><entry><title>2024 Spring 課程 W15</title><link href="./2024-Spring-w15.html" rel="alternate"></link><published>2024-05-31T04:54:00+08:00</published><updated>2024-06-21T14:32:03+08:00</updated><author><name>41123101</name></author><id>tag:None,2024-05-31:./2024-Spring-w15.html</id><summary type="html">&lt;p&gt;上傳作業&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;上傳作業&lt;/p&gt;
